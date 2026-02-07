@@ -29,3 +29,5 @@ Each todo can have one of the following priority levels:
 - Improves task organization
 - Helps users identify urgent tasks quickly
 - Enhances productivity and planning
+## Notes
+Priority levels can be extended in the future to support custom user-defined priorities.
