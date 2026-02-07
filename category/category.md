@@ -31,3 +31,7 @@ This improves readability and makes the todo list easier to maintain.
 - Better organization of todos
 - Faster task management
 - Clear separation between different types of tasks
+## Notes
+- Each todo should belong to only one category at a time
+- Categories can be extended in the future
+- This feature improves clarity and usability of the todo list
